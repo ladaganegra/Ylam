@@ -1,0 +1,12 @@
+v1.3.0
+Adición de un controlador de configuraciones. YlamManager.
+
+v1.2.1
+Comprobacion de existencia de la sección principal antes de realizar el get.
+
+v1.2.0
+
+Soporte para rutas completas
+Control por excepciones
+Verbosidad configurada
+Admite hasta 3 niveles
